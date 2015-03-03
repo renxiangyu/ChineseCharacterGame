@@ -1,0 +1,54 @@
+C:\Users\Administrator\Desktop\ChineseCharactersGame\ChineseCharactersGame\bin\Debug\ChineseCharactersGame.exe
+C:\Users\Administrator\Desktop\ChineseCharactersGame\ChineseCharactersGame\bin\Debug\ChineseCharactersGame.pdb
+C:\Users\Administrator\Desktop\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form1.resources
+C:\Users\Administrator\Desktop\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.exe
+C:\Users\Administrator\Desktop\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.pdb
+C:\Users\Administrator\Desktop\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form2.resources
+C:\Users\Administrator\Desktop\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form3.resources
+C:\Users\Administrator\Desktop\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form4.resources
+C:\Users\Administrator\Desktop\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form6.resources
+C:\Users\Administrator\Desktop\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form7.resources
+C:\Users\Administrator\Desktop\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form5.resources
+C:\Users\Administrator\Desktop\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form8.resources
+C:\Users\Administrator\Desktop\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form9.resources
+C:\Users\Administrator\Desktop\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form10.resources
+D:\临时文件夹\图标\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.exe
+D:\临时文件夹\图标\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.pdb
+D:\临时文件夹\图标\ChineseCharactersGame\ChineseCharactersGame\bin\Debug\ChineseCharactersGame.exe
+D:\临时文件夹\图标\ChineseCharactersGame\ChineseCharactersGame\bin\Debug\ChineseCharactersGame.pdb
+D:\临时文件夹\图标\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\临时文件夹\图标\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form1.resources
+D:\临时文件夹\图标\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form10.resources
+D:\临时文件夹\图标\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form2.resources
+D:\临时文件夹\图标\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form3.resources
+D:\临时文件夹\图标\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form4.resources
+D:\临时文件夹\图标\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form5.resources
+D:\临时文件夹\图标\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form6.resources
+D:\临时文件夹\图标\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form7.resources
+D:\临时文件夹\图标\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form8.resources
+D:\临时文件夹\图标\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form9.resources
+D:\临时文件夹\图标\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Properties.Resources.resources
+D:\临时文件夹\图标\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\临时文件夹\图标\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Oracle Thinking Quest\完成\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.exe
+F:\Oracle Thinking Quest\完成\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.pdb
+F:\Oracle Thinking Quest\完成\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Oracle Thinking Quest\完成\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form1.resources
+F:\Oracle Thinking Quest\完成\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form10.resources
+F:\Oracle Thinking Quest\完成\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form2.resources
+F:\Oracle Thinking Quest\完成\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form3.resources
+F:\Oracle Thinking Quest\完成\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form4.resources
+F:\Oracle Thinking Quest\完成\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form5.resources
+F:\Oracle Thinking Quest\完成\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form6.resources
+F:\Oracle Thinking Quest\完成\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form7.resources
+F:\Oracle Thinking Quest\完成\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form8.resources
+F:\Oracle Thinking Quest\完成\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Form9.resources
+F:\Oracle Thinking Quest\完成\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\ChineseCharactersGame.Properties.Resources.resources
+F:\Oracle Thinking Quest\完成\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Oracle Thinking Quest\完成\ChineseCharactersGame\ChineseCharactersGame\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Oracle Thinking Quest\完成\ChineseCharactersGame\ChineseCharactersGame\bin\Debug\ChineseCharactersGame.exe
+F:\Oracle Thinking Quest\完成\ChineseCharactersGame\ChineseCharactersGame\bin\Debug\ChineseCharactersGame.pdb

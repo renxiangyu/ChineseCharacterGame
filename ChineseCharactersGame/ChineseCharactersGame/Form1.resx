@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>107, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAQEAAAAAAGAAoMgAAFgAAACgAAABAAAAAgAAAAAEAGAAAAAAAADAAAAAAAAAAAAAAAAAAAAAA
+        AACpp6epp6epp6eqqKiopqasqamnpKSopaWppaaopaWkoqKpp6elpKOopaaop6eppqeopqaurKyopqas
+        qqqrqqqqqKiqqamtrKyqqKirqamtq6urqamrqamurKyqqKirqamtq6qrqamsqqqtq6uqqKisqqqrqamr
+        qamsqqqrqamqqamsqqqrqampp6atq6usqqqqqKitq6uqqKiqqKiurKypp6erqamtq6uopqaqqKesqqio
+        paKqpqSqp6SppqSmoqGpp6eopqapp6erqaiopqapqKaopaWqpqenpaWppqelo6Onpaapp6app6elpKSt
+        qqqpp6erqamrqamsqqqpqKirqqqqqamtq6uqqKisqqqrqqqrqqqpqKiuraypqKisq6urqamtq6usqqqu
+        rKypp6eurKyrqamsqqqrqamurKyrqamsqqqsqqqrqamrqamurKyqqKisqqqsqqqrqamqqKisqqqrqamr
+        qamqqKirqaiqqKeqpqaqp6WppaOqpqSopaCrqampp6esqqmrqampp6eqqamppqeopqasqaqopqampKSo
+        pqaopKWnpaarqamop6epp6esqqqrqqqqqamtq6usqqqtq6utrKyqqKiurKysq6usqqqpqKisq6qqqais
+        qaqtq6usqqqsq6qurKysqqqurKytq6urqamurKyurKyrqamvra2sqqqrqamurKysqqqrqamvra2rqamr
+        qamtq6usqqqqqKitq6urqairqqisqqipp6WsqKerqKaopaKrp6Srqaitq6qtq6qurKytq6usqqqsqair
+        qamrqairqqmqp6eqqqipqKirqqqop6irqaqurKyvra2rqqqwrq6urKytq6uwr6+ura2vra2urKyura2u
+        rKx8fICBgoOrqamsqqqurayvrayvraytrKywrq6urKywrq6vra2wrq6urKywrq6urKywrq6tq6uwrq6u
+        rKyvra2tq6qvrayurKyvra2sqqqwrq6urKytq6qvrayurKusqaeurKqsqaetqqesqKapp6erqaipqKer
+        qqmqqKisqamop6eqqKiopqasqKimpKSqp6eop6eop6eopqasq6unp6etq6urqqqurKyrqamurKysqqqs
+        q6utq6utq6usqqqvra1wcHNbXF2bnZynp6aop6aqqamqqamtq6usqqqurKysqqqurKysqqqurKysqqqt
+        q6utq6usqqqtq6uvra2rqamtq6qtq6urqamrqaisqqmsqqqsqqqsqqqsqqmrqaisqairp6appaOtqqeo
+        pKGrqamqqKipqKisq6urqaiqqampp6epqamopqarqKiopqanpaaqqKiopqanpqasqqqpqKisqqqsqqqs
+        q6urqqqurKysqqqvra2sqqqtrKytq6utrKttbnAyMzZiYmJzdXp8g4ShoaGmpqasq6urqaivra2tq6ut
+        q6usqqqwrq6tq6utq6utq6uurKysqqqvra2sqqmtq6usq6qrqqmrqKerqaepp6asqqisqqmrqamsqair
+        qairqKWrp6Srp6WmoqGrqamqqKisqqqsqqmrqamrqamqqaiopqapp6iop6impaWnpaaopqenpqaqqamo
+        qKiqqamqqqmtrKysq6utq6utq6uvra2tq6usq6usrKyIjJBqbHFJS04VFRYRExQ/QkJNS0xiZGOSlpd7
+        gIWoqKesq6qurKysqqqvra2urKytq6uurKyvra2rqamvra2urKysqqqtq6utq6qsqaisqamqqKiopqWp
+        pqWsqKiuqqmsqaerqKasqaaqp6WqpqKppaOrqamsqqqqqKitq6qrqamtqqqqqKipqampp6epp6empKWr
+        qKmnpaarqaiqqKiqqaiqqamurq2op6iura2urKysq6uurKywrq6rqqpzd3xsam4fIyUCAQIDAQIDAgIE
+        AgIWExRSUVFXWl90dXVvcnOoqKetq6utrKytrKyurKytrKytq6uurKysqqqvra2urKyurKuurKytq6qt
+        qqmvrayopqWrqaerqaeppqWsqaiuq6qqp6Wqp6Oqp6SqpaOloJ+rqamsqqqrqamtq6usqqmsqqqrqams
+        qqqnpqWsqqqnpqapqKmoqKisqqqmpqavrq6rqqqYm52qqqmvrq6sqqqvrq6vra2vra1/g4hLT1MICAoE
+        AgIFBAQDAQEDAgIEAgIVFhYEBAYCAQEZGhpUVFahoqKqqqmurayrq6qwrq6urKyurKyvra2vra2tq6ux
+        r6+urKyurKyurKuurKqrqamurKusqaeqqKWrp6etq6irqKesqaasqKeppKOqp6WloZ+rqampp6eqqKiq
+        qKiop6arqairqaiopqanp6anpqakpKOop6ipqKilpKWoqKirq6upqKdfY2iMi4yqqKiqqqqsrKyrqamW
+        mJldYGQGBQcFAwMvKStybnJybnMTEBMiGx8IBgcHBQQCAQFDPz9IQ0Wfn56pp6eoqaerqqmuraypqKes
+        q6usqqqsqqqsqqqurayop6eurKutq6upqKerqaitq6qlpaOqqKWrqKWqpqWrqKerqKWopaKppqSloqCj
+        n52sqqmrqamsqqmsqaqqqKirqamsqqqnpqapqKipqKmmpqapqKmoqKiop6ipqKmnp6eurKtfYGZaWllz
+        dHh3fIB6f4OTmZprbXIiJSYEAgMJBwdBREZKTVFubW+GgoRBSEhOT1EKBwkEAwIiJCRTWFg0NTOGiYmp
+        qKisq6uoqKinqKilpaasqqqqqamvraysq6qtq6usq6qurKysq6murKyrqaisqqirqKirqKWtqqitqqir
+        qKWsqKaqpqWopaOloZ+rqamrqamqqKisqKmqp6esqqqmpaSqqKippqepqKempaapqKmmpaaqqamnp6do
+        bHNzdXZUWF1GR0tDREVaXV5KTExJSEuSj5ECAgQBAQEEAwQQDg9kY2dZWV49QEMFAwQZGRkJCAhLR0lA
+        Oz1KQkQFBAVRUU+tq6qrqqqqqamgnp1rcHGjoaKlpaSurKyurKysqqmtrKyqqaitq6uurKurqKesqqiq
+        qaeqp6asqqmsqqirqKatqqaopaSppqSmop+sqqqrqamrqamurKurqamsqqqtq6qsqqqpqKirq6ulpqao
+        qKirqquop6ducnc9QUMiIiFAQEJpZ2kICQsDAgEUEBIEBAVrbXABAQEBAAEDAgNjYWR5d354d3t9e38d
+        HB0EAwMEAwMoKithYWNsbW0YFhVgX2CJi42BgIN6fH5eX14uLyuanJunpaapqKixsK+sqqqtq6qurKut
+        q6qtq6quraysqqqtqaisqqmtq6qtq6quq6qtqqisqKisqqaopKKrqaiqqKitqqqqqKiqqKisqqqqqaio
+        p6esqqqpqKifoaB6foN1eX2dnJs8P0MBAQEFAgMFBAQNEBIDAgMCAQI+PkAKBwo/P0ICAgEsKCkTEBN6
+        en6sq6t3d3xrbnETEhQgGxwyLy1TU1aPjY6lo6NnZWl2e35/f4ApLjAmLCsMDQ8WExGHiYiWmZmeoaCd
+        nJx9gIOkpqSnpqapqairq6mtq6upqKatqqmrqKisqqmsqqmqqaesqqmsqamqp6Orp6Wtq6qtq6urqaiv
+        ra2sqqqtqqqtq6qtq6usq6uvra11dnxIS01APz9jYmQzMzUAAAAYEhVRSU5gWV0/Oj4KCAoNDg4UFBMG
+        BgcCAQFNS0w4Njx1dXmnp6hydnsiICVYVlhxbnGJhYmkoKGwsLCysLB1c3gWGBtKR0wJCAcHBQUKBwdH
+        SElaXl9WWl1wcXJlZGhpaWxmZ2ijpKOrq6muraysqqqwrq6urKysqqitrKqwraysqqmurKuurKuurKmr
+        p6arqairqamqqKirqairqKirqqqpqKisq6qrqamsrKtvcXcODQ8gHx9hY2UHCQo7NzpkZGWamZqUl5p4
+        d3xranBUU1cNDA0BAQIDAQE3NjeVl5eCgYSQkJU3ODppZ2yLiIuura2wr6+vrq6wr6+trKtVVVkSExJg
+        ZGYdHBwLCwsIBwgIBwgHBgcLCQkPERE8OTwRDg4uMjJsbm2lpaSqqamvraysq6qsqqqsqamsqqmrqqmt
+        qqmtqqmrqKeuq6qqpqSrqaiopaWqqKiqqKenpqarqamqp6iqqKiqqqqrqqppam4EAgQrKysEBAUuKitd
+        WmBoaWp2cHF2eH9HRk6HhoeIhohiYmUJCAoCAgINDQ5qaW2dm5yPkJIhIyNKS0tydHWtra2tra2tra2v
+        r6+op6daWV8JCAgQDw4QDw8PDhATDxIDAQICAQIJCAlAOjxAQkNJRkYKCQlYWlqYmpiopqasq6qrqait
+        q6utqairqaesqqmrqqirqaasqqerp6aqp6SsqqqsqKisqqmpp6iqqKipqKmqqamqqKitrKytrKxxdHgI
+        CAslISUCAQJUUFWBgYReYmc4OD5/fYCpp6hnZ213en5hY2Z0cnQCAQIFAwNISU6hoaOurq5QTVNqaWyF
+        hYqmpqeurq6urq6urq6OjZJ7eXsEBAQFBAULCQplZWiChYd8eHobFxhDQEKDg4M7NjoODg4UEhFiYWF7
+        fXypp6etq6qurKutq6utq6qurKuuq6qsqqmvrKqtqqmtqqisqaWtq6uurKuqqKiuq6uqqKirqampp6et
+        q6ytq6uSlJhBQ0YWExNOUVIWFRhlY2ZeXmIwMC85OThWVVaYmp19foQfIikEAwU0NDk0NDYFBAQVFBV0
+        dXyYnJ9bYWNMUVVma2yAgIabnaCvr6+nqamIio4/QEIJCggFBAUsLC5ydHiYlZVkZWiamJl+f4KPjpFz
+        bW4uKisQDg1KTUxxb2+qqqmrqqqwrq6wrq2tq6mvra2vraytqqmvrKquqqmvq6mqqKWsqqqsqqqqqKir
+        qamrqamop6eqqamtrKylpaV0eHwRExYCAAIsJClCQ0R+enw3OjwXExQQDxEuLi9xcXZubnFqa25SUVYy
+        MDIrLi8FBAQGBQYeHh9CRUgDAwMEAgMFAwRGSEyIi4+NjpWCg4lQU1cKCQsREBA2MzSTkZKAgIV9foGr
+        qamBgIWenZ6trKyyr69saGsQDg0dHh1cWluXmZivrayurKyurKuurKuurKutq6uurKutqqmsqaevq6mq
+        pqOrqamopqapqKanpaWko6Ompaaop6ejpKRiZGpUVFxqZ2xfXWRkYWN2eHwiISJdXGBvam02OTxIR0qX
+        k5StrKyopaZra29paGwKCQwFBAZPTVEGBQcEAgIFAwMGBQYIBwgjISNnam5mamokJigHBQYKCQk+PUBm
+        aW55fH+Ki4+pqamtrq2sq6unp6iFiYqtrKyDgoQpJSdVU1NmZGhvb3Ctq6qqqKetq6urqairqaisqqqq
+        qaerqaisqqippqOppqGsqqqtq6upqamop6empaWmpKWqqampqamVkZWppaWjnqCuq6uXl5dubnBGRkoU
+        FRkvMzUzLzJpaW+vrq6tra2tra2xsbFxcXV1dnkYFRlHSVBzcXQNCw4DAQECAgIFAwQIBgcLCgoIBwgI
+        CAcJCAc9PT6Hh4uHhoeDg4aura2vr6+tra2wsLB5d3pNTk6ura2GhYczMTSlpqSrqKeurKqtq6qxr6+t
+        q6utq6uwrq6uq6qsqqmvrausqaitqqesqKatq6utq6urqqqqqKmlpKSpp6mop6erqquura2vrq6tq6uz
+        sbGurKysqqpwb3JmZWtOTFFxcHWenJ6vr6+vr6+vr6+urq6xsLF9fYF0dXp8foNyc3hpbHNSUFQlJCcL
+        Cw4IBwkQDhIeHCEdGx4QERBUV1RZW19vcnWvsK+vr6+vrq6wsLCurq6cmJs+PTtxcXJoZ2lKSkysq6qt
+        rayxr66vrayurKyxr6+urKuurKuwrayuq6qvrKquq6qtqqaqpqSsqqqrqamoqKeop6iko6Snpaenpqeq
+        qKmpqamurKysq6uura2vra2wrq6trKyuq6uppqavra2tra2vr6+trKyvr6+tra2vr6+tra2wr6+urq6x
+        sbGdm513eH54eX55en11dXR3eHmBgYM3NzgMDAwODQ0rKyyJi46tra2vsLCtrq6urq6tra2vr6+Lh4pJ
+        RklGRkidnZytrKuvra2trKuvra2vra2urKytq6qurKutqqitqqitq6qsqaesqKappaStq6utq6upqKil
+        pKWkoqOioqOmpKempKWop6mrq6urq6utra2vrq6trKywrq6vrq6ura2vrq6wsLCtra2vr6+urq6wsLCv
+        r6+vr6+wsLCwsLCwsLCvr6+vr6+xsbGvr6+wsLCYmJp/gIUjIiYhHyJPT1F/gIOurq6ur6+vr6+urq6u
+        r6+vr6+tra2vr6+vr66uraywrq6vrq6tra2vra2wr6+tq6uurKyurKyurKutq6mrp6etq6mtq6qsqaer
+        qKWtq6uurKypqamopaejoaOjoaSkoaKlo6WlpaapqKmpqamurq6srKyvr6+tra2tra2vr6+xsbGsrKyw
+        sLB9gIJUVliwsLCxsbGvr6+vr6+xsbGvr6+wsLCysrKvr6+wsLCxsbGwsLCXl5qBg4eEiIuSlJiwsK+t
+        rq2srq6qq6qnqairra2vsLCtra2wsLCvrq6wr6+vr6+vra2vrq6xsK+rq6qwr66vraysq6murKqurKqp
+        qKasqaiuq6iuqaippaOtq6utq6urqamop6iioaKioaKhoKKjoaOioaKmpaelpaWqqausra2urq6qqqqx
+        sbGsrKyurq6urq52e3wJCQsXFReurq6vr6+urq6wsLCurq6ysrKtra2zs7Ovr6+wsLCwsLCxsbGvr6+y
+        srKurq6oqKo/QkoZHyAkJyggISMMDhB+goKtrq6trq2tra2xsbGtra2vrq6wrq6tra2trKyxr66urKyu
+        rKuurKuurKurqairqKisqqmppaStqqiqpqOsqqqqqKirqamqqKikoqOioKGioKGioKKioKKioKOioqSm
+        pqipqaupqaqqq6usra2qq6usrKyGiYsHBwkEAgIeGx6srKuvr6+srKyur6+vrq6vr6+sra2xsbGoqakm
+        KS9laGqsra2vr6+xsbGsrKyxsbGlpKZgYGMcHRsWFhUGBQVucHCqq6utra2srKyvr6+rq6uurq6ura2t
+        q6qtq6uvrq2rqqisrKqurKusqqmtqairqKeppqSqp6WopaOopaOvra2vra2urKytrKyqqaqmpKSmo6Wg
+        n6KjoqSlpKekpKaop6mqq6yrrK2rrK2qra2vsK+vr68xNDYEAQMDAgJHQkWysrKvr6+zs7OwsLCwsbGx
+        srKxsbGwsLCztLRkZGoRERJOUFGxsbGxsbG0tLSvr6+zs7OwsK8oJigODxEPDg+Ljo6xsrKtra2xsbGw
+        sLCwsLCvrq6xsbGwr6+vrq6wr6+vr66uraywrq2wrq2trKquq6mvq6mrqaatqqarp6Wsqqqsqqqsqqqr
+        qqqmpaWpp6iioKKioKKhoKKioaOioaOnqKqjpaanqqqnqaqoqaqoqamwsLBFSEkBAAECAgJdWl2urq6w
+        sLCtra2vr6+ur6+kpqWlp6eusLCtrq6wsLCOjZEaGRqDhIWxsbGurq6doKJ5en06PD8LCgsIBwgfHSCq
+        q6utra2srKyvr6+urq6tra2wr6+tq6usrKyvr66rqqmtrKqurayrqaisq6isqqippqOqqKapp6WopaOl
+        op+sqqqrqamrqamsq6unpqampaaioqOjoaKfn6Cko6WioKKkpKanqKqoqaqjpaWqq62mqKiqq6tbXV4C
+        AQEDAQJiYGGtra2wsLCurq6vr6+VlpgMDA8bHB5+gICnqamusK+vr69oam1KTEyysrKtra2en6GNjZB6
+        e35wcXR9fYCbm5utra2vr6+urq6srKyxsbGtrKytra2ur62sq6uqqqmvrq2sq6qrqqisq6qqqaeqqaip
+        p6appaSopaOqpqSkoZ6tq6uqqKitrKyrqqqnp6enp6iioqOfnqGioqSfnqGgn6GmpqekpKekpqeoqaum
+        p6ikp6ioqalLTk8BAQEDAQJkY2Our6+vr6+srKyxsbGZmpwHBgcFAwQEAgMiISNUVVWDh4lhY2QgISKw
+        sLCtrq6xsbGvr6+tra2wsLCvr6+tra2xsbGtra2srKywsLCsrayrq6uwsLCrq6qsq6utrausq6qqqamt
+        q6qqqaisqqmsqainpaOopaSpp6WmpKKqpqWurKyvra2vra2vrq6urKyrq6ynp6ijo6WioqSko6Wjo6Wn
+        p6mnpqioqKqoqKqnqaqpq6yqq6xGSEkBAAABAABhX2CtsLCvsbGwsbGwsbGxsrKNjpBoaWxrbG9lZWhY
+        WFspKy4FBQcICAifoqGusbGsrq6wsbGvsbCysrKxsbGxsrKvsLCxsbGurq6xsbGwsK+wsbCur6+vr6+x
+        r6+vr66rq6qxsK+trKusqqivrayurKqqqKerqqirqKasqaaqqKSsq6uurKytq6uura2rqqqrq6umpqal
+        pKahoKKko6WgoKOkpaeio6Wlpqekpaapqqylp6iqrKwuMDEBAQEAAABWVFWmqaqqra6sr6+tr6+rra2w
+        sbGsrq6vsbGqrK2srq+trq2YmZojIyU0NDSBgoOdnp2ioqGnqaioqqqsrq6rra2urq6urq6sraysrq2v
+        sLCqq6utrq6urq6trKyrrKusrKysrKusq6qrq6qrqaiqqaasqaerp6aopqOrqKenpKKurKysqqqsqqqv
+        ra2qqqqqqqqpqammpqejoqSjo6afoKOgoaSgoqOko6WkpaanqKqmqKmqq6oYGx0cGhsGBwdJR0ijpKWq
+        rK2qrKyrrq6rra2srq2nqqmsrq6pq6uoqquoqaqoqqpBQUMFAwMTFBUZGh4NDhAeHx9JSkqHioioqamp
+        q6uqrKusra2qqqqtrq2sq6usrKqsrKyrq6qoqaisq6upqKesqqirqaipqKeqqaisqaiqqKaqp6aqpqSn
+        pKKtq6usqqqurKyurKyrq6urq6urqqujpKanpqelpaegoKOgoqSgoqSgoaOkpaelpqipqqupq6oODxFZ
+        VlcvMTM/PD2io6Wjpqeoqqyqrayrrayrq6upq6qJioxkZWeKi4ygoJ2hoqEvLi4BAQGMjo2kpqVaW14F
+        BAYCAQEDAwRsbW6nqamprKyoqaiqrKyrrKyqq6qqqqqrrKypqamqqqmrq6mqqaerqKepqKeqqKeqqKaq
+        qKesqqepp6SopqSqp6Otq6uurKysqqqvra2tq6uura2pqqqoqKinp6mlp6iioaOkpKafoaOipKWjpKam
+        p6ipqquusK8NDhBoZWh4fH8hHiCioqOnqaqlp6ioqaqqrayqq6upq6uRk5QlJikDAgMLCgsNDQ4DAgMB
+        AAB+f36mp6errayOj48aGh0CAQE9P0CmqKeoqamoqqmsrKuqq6qrq6usra2pqqqqqqqsrKupp6Wpqais
+        qqinpqSqp6esqqiopqWtqaerqqerqaanpKOtq6uurKytq6uvra2urKysrKyqq6uqq6ulpqeqq6ykpKWk
+        paalpqekpqigoaOpqaynqamipqUHBwiHhIWnqKldX2SioaKoqamnqKqpq6uoq6utrq+pqqqusK+sraxG
+        RkwFBAU1NzgPDxIDAwMREBBnaGikpaSqrKyho6N3eHqXmJioqKmpqquoqqmoqaqur66rq6qqrKqrq6qr
+        q6qpqKitrKuqqqmnpqWpp6asqaeqp6asqairqaeqpqWtqqenpaOsqqqqqKisqqqtq6urqamsq6uqqqqm
+        pqenp6inqamio6WlpaelpaeioaOlpaekpqejpKWTl5gBAQKAfX+oqampqqqlpqepq6ulpqenqqqpq6up
+        q6qlp6erq6ynqaikpqY5OTuTlJOMjIwEBAQEBAMCAQEqKiqQkZCkpaWmpqeipKWoqqmnqKioqKipqqir
+        rKump6arq6uoqainqKaoqKisq6qmpaOnpaWmpaSmpKOnpqWnpqSppqSopaWopKOopaOtq6utq6uurKyv
+        ra2urKytrKytra2pqKmnqKmoqaqkpaalpqinp6ikpaemp6ilpaemp6iPkZMBAQFmY2SnqKmoqqqqrKyk
+        p6ioqqupqqurrKyqq6uqq6ypqquprKt8fH6dnZ5NTU+JiokCAgMrKyslJykVFhhhZGWlp6elp6eoqamn
+        qairra2oqKiqrKypq6qqqqmoqairq6qnqaerq6mqqKepqKeop6WopqWpqKeop6WnpaSsqaeqp6epp6Sp
+        p6Ssq6usqqqrqamurKysqqqura2pqamrq6ump6imp6ijo6WoqaqjpaalpqikpaekpaahoaOGiYsBAQFB
+        Pj+kpaWlpaampqenqKikpaanqaiprKuqrKunqqmtr66MjY0HBgdQTk6ampcVFBYDAgJzdHOmqKelpqWj
+        pqakpqamp6ioqamoqammqainqaipqqmpqqmmp6epqamnp6eoqKepqaimpqWppqWmpqSmo6OmpaSopqWn
+        pKOqqKappqSopaOkoZ6sq6utq6utq6uvra2tq6uura2urKysra2oqqqpq6qlpaenqKmnqaqoqKmkpaen
+        p6igoKCXm5sBAgMiHyGhoqGmp6empaamqKimp6eoqamqq6uur6+pq6qtsK9jYmMEAgMEAgMPDQ4DAgMB
+        AQEJCQp7enmjpaWnqKmlp6eqrKupqaqpqqmqq6qqq6qnqKerrKynp6eqqaiqqqmpqaioqKeqqainqKem
+        pqWopqanpaWlo6SqqKaqqKappqSrqKempKKqqamrqamurKysqqqsqqqtrKyrq6upqqmsra2mqKimpqeo
+        qaqlp6inpqepqaqlpKWjoqOlpaUSFBYJCAmgnp2ioqKlpaalpqejpKWpqamoqqqpqqqrrq2VlpUUEhQY
+        GRpdX2A3OTsTFhkGBggCAgIHBwh2dnakpaWmp6ioqKinqKeqq6qoqaipqaioqamnqKikpaSqqqilpaWm
+        pqanp6aop6alo6OmpKSlo6Ojo6Gno6KloaCqp6WppqSno6GppKStrKywrq6tq6uxr6+vra2vra2vra2v
+        rq6vra2vr6+rq6urrK2rq6utrK2rq6uoqKiqqaqqq6s9QEAAAACLiImjo6SoqKqpqampqquqqqqsrayt
+        r6+sraw0NDUFAwR9f3+rra2sra6rraueoaA7PUAFBARcXV2mp6inqKmoqqmsrayrq6urrayqq6qrrKuq
+        qqqqq6qqqqmqqqqpqaipqqmmpKSqqKiopqampKSnpaWmpKSmoqGqp6aqp6WrqKaloqCpqamsq6urqamu
+        rKysqqqurKysqqqurKyrqamvrq6pqamrqquqqqqrrKuoqKetrq2lpqaoqKhcXl8BAABjYGCjo6OjpKSl
+        pqemp6eoqamnqamur6+EhIUHBgc7PD6lp6alqKioqqqpq6qqrayhoqENDQ8TExKWlZWjo6SnqKmnqKip
+        qqqrq6upqamnp6eqq6unp6epqaiqqqmoqKenpqapp6elpKOjoqGmoqKjoKGjn56joaCloqGkoqGppqOk
+        oJ6qqamop6esqqqtq6uqqKitq6usqqqsqqqtq6utq6upqKiqq6urqqqpqKiqqqqrq6umpqaqqql0d3cC
+        AQEnJCSgn5+goKGkpaaio6Onp6ioqampq6uWmJprbnGjpqSnqKimqKemp6amp6aoqamkpaU/P0EIBwcw
+        Ly+dnJ6mp6elpaWpqqqoqaepqqmnqKepqamkpaSoqaiop6enpqWnpqWopqaioaGioKCinp6hnp2gnp6h
+        nZ2hn52koZ+in56inp2qqaqsq6uurKyvra2urKyurKyvra2sqqqvra2vra2tq6usrKysrKytrKyura2r
+        q6qrq6usq6uNkJECAQIFAgOCf4ClpaWmp6ioqampqamrq6uqq6qqraysra2sra2am5xbWVmcnJunqKml
+        pqalpqVubW8EAwMFBQVVVVSlpaWpqamqqqqsrKyoqKirrKqpqaiqqaipqaiqqqiqqKeqqaiop6WmpKSj
+        oaCjoZ+koaCioJ+gnZyjoZ+moqGmo6Gjn56qqaqsq6urqqqvra2tq6uvra2tq6uvra2urKywrq6tq6ux
+        r6+srKywr6+ura2ura2srKywsK+jpaQJCgwGBAQ2MTOlpKSpqqqpqKiqrKyqq6usrKyrq6ytrq6qrKyt
+        rq2IiownJylMSEkwLS4zMDEpJiYBAQECAQEGBgecnZyqq6qrrKusrKuqqqmsrayqq6upqaisq6uqqaeq
+        qqiqqqmmpaWnp6WopaWhn56loaKjn5+fm5qkoJ6loqCkoqCin52np6epqamrqqqtrKytq6uurKytq6uv
+        ra2sqqqwrq6tq6uvra2ura2vrq6tq6uwsLCrrKysra2trKslKCkDAgIFBQV5dXaoqampqamrrKurrKut
+        raynqKiura6pq6utra6tra1gYWUIBwdGSkpCRUgqLTEIBwkCAgIcHyCnqairrKurq6uqq6qrq6uqqqms
+        rKupqamrqqiqqqmpqKinpqapqaeopaWmo6KkoqKjoKCgnZyempmhnp2joJ6koJ+enJmnpaWkpKSop6es
+        qqqpp6esqqqtq6uqqKitq6usqqqqqKitq6utq6uqqKitrKytrKypqamtq6usq6tFSEoBAAAEAgMiHyCo
+        qKaoqKeqqqqrq6upqamlpqWqqqqpqampqqmrrKykpKUREROSkZGnqKeqq6qXmZlpbW+cnZ6srKyoqKis
+        rKurq6qnqKeoqaipqaikpaSoqKenp6WnpaSop6WoqKajoZ+moqKkoqGin56gnZucmJicmpmkoJ6empqg
+        nJulo6OlpKSnpqerqamrqamrqqqtrKysqqqsqqqvra2sqqqurKyura2vra2sqqqtq6uwrq6vra2sq6tr
+        bnABAQEBAQEDAwOBfX6rrKusraysrKyFgYJ7dXampqSqq6upq6qsrKysrKxLTE5FREOpqamnqKeqqqmn
+        p6eqq6urq6qtrayqq6qtrq2qqaiqq6mpqKipqqinpqWsqqipqaepqKalpKOop6ajoaGkoaClo6Kjn56d
+        mZmem5qin52jn52koJ6koqKlo6SlpKWopqepp6itrKuqqKiurKytq6uurKysqqqxr6+rq6uvra2urKyv
+        ra2sqqqysLCtq6uYmpoCAgICAQEDAQFRTU+rq6uura2urq5BRUoDBAQmIiOIhIKsraysraytrayNjY8H
+        BgaDgX+pqqmnp6epqqiqq6urq6qrq6utrq2rqqqqq6usrKyrq6qqqairrKmqqairqqisq6qpp6aopqSp
+        paSloqClo6Goo6OjoJ+koqCloqCmo6Kjn52loqKioaGlo6Snpqaopqeqqampqamtq6urqamsq6qsqqqv
+        ra2trKyurKytq6uvra2tq6uvra2urKysrKsJCw0EAwMCAgIwLS2pqqmvra2vra2vrq6Gi45GTE8ICApT
+        Tk6hn56qrKutrKskJCcfHR2gnp2mpqaoqKeqqaisrKypqqqsrKuqqqmtq6qrqqmsrKqpqaisq6qrqaiq
+        qqipqKeqqKaop6WnpaSmo6OnpaOmo6KloqCmoaCjoaCno6GloaCloqWnpaWnpaaopqapqKerqamtq6ur
+        qamsqqqtrKusq6uurKyvra2tq6uvra2vra2urKyurKyxr6+urKwhJSYDAgIDAgIbGBqsq6qurq6vra2w
+        rq6vra2urKxFR0kFBAQVERNUT096dXZJREcFBAQwLS2gnZynp6eqqqmsrKuqq6qtrKusraysqqmsq6qs
+        rKurqairqqmqqaioqKaqqaitqqmppqWopqOop6SmpKKloqGloaCmo6GloqCmo6GppKGmoqOlo6Slo6Op
+        p6ipp6erqairqKiqqamqqKevrKyrqamvra2sq6utrKysq6utq6uurKyxr6+sqqqvra0uMTMEAwMEBAQK
+        CQuqqaetrKyvrq6urKyurKywrq9EQkQEAwQGBgdBRkkiJywICQsHBgUHBgcbGBplYGF1bm93cXGUkJCs
+        q6mtra2rqamtrKusq6qrqqmrqqmpqKaqqaesq6mmpaOqqKampKOkoqGmoqKloaChnp2joKCkoJ6koJ6i
+        n52lo6Omo6SmpaSqp6eppqaqqKiqqKiqqqqnp6evra2rqqmurKyura2ura2rqamxr6+tq6uurKyurKyv
+        rq4zMzYDAgIFBQUVFBepqamvra2tq6uxr6+tq6udmpsODA0EAwQODQ6qp6atrKyZnJ0WFxoNDAwGBQcD
+        AgIDAQECAgITExOpqKaurKytq6urqqmvrq2sqqmrqqmrqqmqqaepp6arqaenpqOloqGloaGjoJ+gnZuj
+        oJ2koJ6gnJyloJ+jnZyloqKin6CmpKOpp6enpaSpp6app6epqKiqqKiqqampp6esqqqsq6qqqKesqqqs
+        q6uqqKisqqqtq6urqqosLjAEAwMFBARwcXGop6etq6utq6utq6urqalJRkoFBAUEAwUFBARQS0ysqqqu
+        ra1jY2cMDAsPDg4FBAQDAgIFAwMUFhiipKSsqqmrqqmrqamtq6qop6WsqqmoqKeopqSopqWnpqSkoqCl
+        oqCjn56gnpygnJufnJqhnJygnJugnJqfm5mnpaanpKSppqesqamrqqqrqamurKyrqaitqquurayrq6qt
+        rKytra2trKuurKytrKyvra2vra2vra2vra0bGx0KCQtiZmitrKyxr6+vra2wrq6wrq6TkpQNCwxgY2WN
+        kpZKUVUKCw1lXl+srKubm5wHBggTEhELCwstMDFudHagoqKurKyxr6+sqqmwrq6urayurKusqqmtq6qs
+        qaeqqKeop6aopaSlo6GloqGloaCjn5+inZ6kn56inpyhnp2hnJqkoaGkoqKmpKOppqanpqatq6qpp6er
+        qamrqamrqqmoqKaurKypqKirq6qrqqqsqqqsqqqwrq6qqKifnp8eICSEhoatq6uvra2sqqqurKytq6uu
+        rKxaWFkuMDOpqKiurKyurKx8goYXGRthWluMhIUFAwQICAcQEBBmZ2erqqmtq6utrKysqqqsqqqurKyt
+        q6qrqqirq6mop6apqKapp6WkoqGloqKkoKCinZyhnp6hnZ2em5qhnZuenJmgm5qemJeloaKjoaCjoaGq
+        pqeopqWpp6esqqqrqainpqWsq6qnpqWpqKitrKuqqqmopqWvra2qqKisqqqurKyOj5KgoaGurKyqqKiu
+        rKysqqqsqqqtq6uvra1+g4eoqKisq6qsqqqtq6uvra2Rk5YiKS0FBAUCAQIDAgIHBQZhY2Svrq6rqamr
+        qamurKysqqqqqKiwrq6rqamrqaitrKqpp6WnpaKpp6akoqChn52inp2hnZugnJufm5qdmpifm5mfm5mc
+        l5SinZ6fnJykoqKloqKnpKOrqampp6aopqWtq6qmpqWlpKSsqqqop6aopqasq6uop6aqqKirqqmrqamr
+        qamtq6uqqKisqqqtq6upp6eurKysqqqrqamsqqqtq6urqamtq6usqqqrqamtq6uoqKhwd3xDSk4eJiok
+        LC+goaGpqamop6iurKyqqKiqqKiurKyrqamqqKiurKyopqWppqanpqWlo6GjoJ6jn5+fm5uhnpugnZqa
+        mJaempqdmZeal5OdmZegnZ2joKCloqOqpqeqp6isqqqsqqqrq6utq6utq6urqaiurKyrqqmsq6urq6qr
+        qqmurq6vrq6rqamwr6+ura2sqqqxr6+wrq6ura2urKywrq6urKywrq6vra2vra2vra2vra2vra2wrq6u
+        rKywrq6urKyvrq2urKywrq6urKywrq6urKywrq6tq6uwrq6urKyvra2urKytq6qtqqmsqqmkoqCpp6am
+        oqGinp2joJ6koZ+fm5qhnZqgnJqempeemZaempqhnJ2jnp+oo6Slo6Osqamqp6esqqqqqamsqqqnpqas
+        q6uqqamrq6qqqaivra2qqaiura2tq6uvra2rqaiurKysq6uurKytq6uurKytq6uwrq6sq6uwrq6tq6uv
+        ra2tq6uvra2vra2vra2tq6uwrq6tq6uvra2tq6uvra2tq6uvra2tq6utq6uurKywrq6sqqqvraytq6qr
+        qaerqaeppqWkoqKjoKCin52hnZugm5qinZufm5mdmZafmpialpKenJuem5qgnZ2loaKkoaGoo6Spp6ir
+        qampp6aqqaiopqWop6eqqqmpqampqKeurKyqqairqqmurKysqqqqqamtrKyqqamtrKyrqqqtq6qtq6uu
+        ra2op6ewrq6tq6usqqqtq6uvra2sqqqvra2rqamurKytq6utq6uqqamwrq2sqqqsqqqtq6qurKurqaiv
+        ra2sqqmtq6qtq6qrqaeppqSrqqeloaCin56jnp2hnZyempmfm5icmZedmZicl5WXk5EAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+</value>
+  </data>
+</root>
